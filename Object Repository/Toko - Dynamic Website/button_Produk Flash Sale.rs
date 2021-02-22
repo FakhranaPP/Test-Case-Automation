@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Produk Flash Sale</name>
+   <tag></tag>
+   <elementGuidId>0b8f0ae2-c041-45ff-ad65-ac89d2a35172</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[4]/div[2]/div/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;__layout&quot;)/div[@class=&quot;appLayout&quot;]/div[@class=&quot;appSection&quot;]/div[@class=&quot;productItems productItems--carousel&quot;]/div[@class=&quot;productItems__row&quot;]/div[@class=&quot;productItems__cell productItems__cell--flashSale&quot;]/div[@class=&quot;productItem productItem--flashSale&quot;]/div[@class=&quot;productItem__cover&quot;]/a[@class=&quot;productItem__image&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/test2.760/product/nessa-kitchen-frypan-teflon-set-shiny-gray-maspion</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>productItem__image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;appLayout&quot;]/div[@class=&quot;appSection&quot;]/div[@class=&quot;productItems productItems--carousel&quot;]/div[@class=&quot;productItems__row&quot;]/div[@class=&quot;productItems__cell productItems__cell--flashSale&quot;]/div[@class=&quot;productItem productItem--flashSale&quot;]/div[@class=&quot;productItem__cover&quot;]/a[@class=&quot;productItem__image&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[4]/div[2]/div/div/div/div/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/test2.760/product/mirani-paket-rahmat-madu-kalimantan-1kg-kurma-ajwa-100gr-saffron-01gr')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/a</value>
+   </webElementXpaths>
+</WebElementEntity>
